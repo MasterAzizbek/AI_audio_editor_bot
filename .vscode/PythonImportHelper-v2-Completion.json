@@ -1,0 +1,581 @@
+[
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "admin_keyboards",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user_keyboards",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "get_admins_button",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_kb",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin_keys",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "deliver_method_button",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "payment_method_button",
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "BasicClass",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "BasicClass",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "AdminsState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "BoughtState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteAdminState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "ProductEditState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "ProductState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "GetState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "AdverState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "InfoState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultBotProperties",
+        "importPath": "aiogram.client.default",
+        "description": "aiogram.client.default",
+        "isExtraImport": true,
+        "detail": "aiogram.client.default",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultBotProperties",
+        "importPath": "aiogram.client.default",
+        "description": "aiogram.client.default",
+        "isExtraImport": true,
+        "detail": "aiogram.client.default",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "command_router",
+        "importPath": "handlers",
+        "description": "handlers",
+        "isExtraImport": true,
+        "detail": "handlers",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_TOKEN",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "BOT_TOKEN = '7317933334:AAGgXOGF88nDk_tX7ijpOO6EPNmDvLt0IoU'",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BasicClass",
+        "kind": 6,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "class BasicClass:\n    def __init__(self) -> None:\n        self.conn = lite.connect(db)\n        self.cursor = self.conn.cursor()\n    def check_admin(self, username):\n        self.cursor.execute(\n            \"SELECT username FROM admins WHERE username = ?;\", (username,)\n        )\n        admin = self.cursor.fetchone()\n        if admin:",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "db = 'basic.db'\nclass BasicClass:\n    def __init__(self) -> None:\n        self.conn = lite.connect(db)\n        self.cursor = self.conn.cursor()\n    def check_admin(self, username):\n        self.cursor.execute(\n            \"SELECT username FROM admins WHERE username = ?;\", (username,)\n        )\n        admin = self.cursor.fetchone()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "handlers",
+        "description": "handlers",
+        "peekOfCode": "bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))\ncommand_router = Router()\ndb = BasicClass()\n@command_router.message(filters.CommandStart())\nasync def start_handler(message: Message):\n    admins = db.check_admin(message.from_user.username)\n    if admins:\n        await message.answer_sticker('CAACAgIAAxkBAAEMS91maYdzmuhVAQSYx19pKB1daQgxZgACxgEAAhZCawpKI9T0ydt5RzUE')\n        await message.answer(\n            text=f'Hurmatli admin. Hush kelibsiz!',",
+        "detail": "handlers",
+        "documentation": {}
+    },
+    {
+        "label": "command_router",
+        "kind": 5,
+        "importPath": "handlers",
+        "description": "handlers",
+        "peekOfCode": "command_router = Router()\ndb = BasicClass()\n@command_router.message(filters.CommandStart())\nasync def start_handler(message: Message):\n    admins = db.check_admin(message.from_user.username)\n    if admins:\n        await message.answer_sticker('CAACAgIAAxkBAAEMS91maYdzmuhVAQSYx19pKB1daQgxZgACxgEAAhZCawpKI9T0ydt5RzUE')\n        await message.answer(\n            text=f'Hurmatli admin. Hush kelibsiz!',\n            reply_markup=admin_keyboards",
+        "detail": "handlers",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "handlers",
+        "description": "handlers",
+        "peekOfCode": "db = BasicClass()\n@command_router.message(filters.CommandStart())\nasync def start_handler(message: Message):\n    admins = db.check_admin(message.from_user.username)\n    if admins:\n        await message.answer_sticker('CAACAgIAAxkBAAEMS91maYdzmuhVAQSYx19pKB1daQgxZgACxgEAAhZCawpKI9T0ydt5RzUE')\n        await message.answer(\n            text=f'Hurmatli admin. Hush kelibsiz!',\n            reply_markup=admin_keyboards\n        )",
+        "detail": "handlers",
+        "documentation": {}
+    },
+    {
+        "label": "get_admins_button",
+        "kind": 2,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "def get_admins_button():\n    keys = db.get_admins()\n    admin_buttons = []\n    for k in keys:\n        admin_buttons.append([InlineKeyboardButton(text=str(k[0]), callback_data=str(k[0]))])\n    admin_buttons.append([InlineKeyboardButton(text=\"Bekor qilish\", callback_data=\"cancel\")])\n    admins_markup = InlineKeyboardMarkup(inline_keyboard=admin_buttons)\n    return admins_markup\nconfirm_kb = InlineKeyboardMarkup(\n    inline_keyboard=[",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "db = BasicClass()\nadmin_keyboards = ReplyKeyboardMarkup(keyboard=[\n    [\n        KeyboardButton(text=\"👗\\t\\tBarcha maxsulotlar\"),\n    ],\n    [\n        KeyboardButton(text=\"➕\\t\\tMaxsulot qo'shish\"),\n    ],\n    [\n        KeyboardButton(text=\"💼\\t\\tBuyurtmalar\"),",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin_keyboards",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "admin_keyboards = ReplyKeyboardMarkup(keyboard=[\n    [\n        KeyboardButton(text=\"👗\\t\\tBarcha maxsulotlar\"),\n    ],\n    [\n        KeyboardButton(text=\"➕\\t\\tMaxsulot qo'shish\"),\n    ],\n    [\n        KeyboardButton(text=\"💼\\t\\tBuyurtmalar\"),\n    ],",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "user_keyboards",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "user_keyboards = ReplyKeyboardMarkup(keyboard=[\n    [\n        KeyboardButton(text=\"💳\\t\\tHarid qilish\"),\n        KeyboardButton(text=\"🔶\\t\\tBuyurtmalarim\"),\n    ],\n    [\n        KeyboardButton(text=\"🏢\\t\\tKompaniya haqida\"),\n    ]\n], resize_keyboard=True\n)",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_kb",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "confirm_kb = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [InlineKeyboardButton(text=\"Tasdiqlash\", callback_data=\"yes\")],\n        [InlineKeyboardButton(text=\"Bekor qilish\", callback_data=\"no\")],\n    ],\n)\nadmin_keys = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(text=\"model\", callback_data=\"model\"),",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "admin_keys",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "admin_keys = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(text=\"model\", callback_data=\"model\"),\n            InlineKeyboardButton(text=\"description\", callback_data=\"description\")\n        ],\n        [\n            InlineKeyboardButton(text=\"fabric\", callback_data=\"fabric\"),\n            InlineKeyboardButton(text=\"price\", callback_data=\"price\")\n        ],",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "deliver_method_button",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "deliver_method_button = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(text=\"Kuryer orqali\", callback_data=\"Kuryer orqali\"),\n            InlineKeyboardButton(text=\"Pochta orqali\", callback_data=\"Kuryer orqali\")\n        ]\n    ]\n)\npayment_method_button = InlineKeyboardMarkup(\n    inline_keyboard=[",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "payment_method_button",
+        "kind": 5,
+        "importPath": "keyboards",
+        "description": "keyboards",
+        "peekOfCode": "payment_method_button = InlineKeyboardMarkup(\n    inline_keyboard=[\n        [\n            InlineKeyboardButton(text=\"Online to'lov\", callback_data=\"Online\"),\n            InlineKeyboardButton(text=\"Naqd pul\", callback_data=\"Naqd\")\n        ]\n    ]\n)",
+        "detail": "keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "runner",
+        "description": "runner",
+        "peekOfCode": "bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))\nasync def main():\n    dp = Dispatcher()\n    dp.include_router(command_router)\n    await dp.start_polling(bot)\nif __name__ == '__main__':\n    logging.basicConfig(level=logging.INFO)\n    try:\n        asyncio.run(main())\n    except KeyboardInterrupt:",
+        "detail": "runner",
+        "documentation": {}
+    },
+    {
+        "label": "AdminsState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class AdminsState(StatesGroup):\n    usernameState = State()\nclass DeleteAdminState(StatesGroup):\n    name = State()\nclass ProductState(StatesGroup):\n    model = State()\n    description = State()\n    fabric = State()\n    photo = State()\n    price = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteAdminState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class DeleteAdminState(StatesGroup):\n    name = State()\nclass ProductState(StatesGroup):\n    model = State()\n    description = State()\n    fabric = State()\n    photo = State()\n    price = State()\n    count = State()\n    size = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "ProductState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class ProductState(StatesGroup):\n    model = State()\n    description = State()\n    fabric = State()\n    photo = State()\n    price = State()\n    count = State()\n    size = State()\n    color = State()\n    finish = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "ProductEditState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class ProductEditState(StatesGroup):\n    id = State()\n    query = State()\n    value = State()\nclass BoughtState(StatesGroup):\n    id = State()\n    fio = State()\n    phone_number = State()\n    count = State()\n    address = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "BoughtState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class BoughtState(StatesGroup):\n    id = State()\n    fio = State()\n    phone_number = State()\n    count = State()\n    address = State()\n    delivery_method = State()\n    payment_method = State()\n    order_date = State()\n    size = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "GetState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class GetState(StatesGroup):\n    id_state = State()\nclass GetOrderState(StatesGroup):\n    user_id = State()\nclass AdverState(StatesGroup):\n    photo_state = State()\n    title_state = State()\n    content_state = State()\n    finish = State()\nclass InfoState(StatesGroup):",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "GetOrderState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class GetOrderState(StatesGroup):\n    user_id = State()\nclass AdverState(StatesGroup):\n    photo_state = State()\n    title_state = State()\n    content_state = State()\n    finish = State()\nclass InfoState(StatesGroup):\n    photo = State()\n    title = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "AdverState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class AdverState(StatesGroup):\n    photo_state = State()\n    title_state = State()\n    content_state = State()\n    finish = State()\nclass InfoState(StatesGroup):\n    photo = State()\n    title = State()\n    content = State()\n    finish = State()",
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "InfoState",
+        "kind": 6,
+        "importPath": "states",
+        "description": "states",
+        "peekOfCode": "class InfoState(StatesGroup):\n    photo = State()\n    title = State()\n    content = State()\n    finish = State()",
+        "detail": "states",
+        "documentation": {}
+    }
+]
